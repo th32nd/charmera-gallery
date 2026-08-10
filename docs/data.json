@@ -12,5 +12,12 @@
     "timestamp" : "2026-08-10T19:48:57Z",
     "type" : "photo",
     "url" : "media\/PICT0019_1786391335.jpg"
+  },
+  {
+    "filename" : "MOVI0000.mp4",
+    "hash" : "MOVI0000.avi:20056576",
+    "timestamp" : "2026-08-10T20:14:23Z",
+    "type" : "video",
+    "url" : "media\/MOVI0000.mp4"
   }
 ]
